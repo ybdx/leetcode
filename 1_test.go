@@ -20,7 +20,7 @@ func TestPalindRomeLinkedList(t *testing.T) {
 	fmt.Println(isPalindrome(head1))
 	s := "hjhj"
 	fmt.Println(reflect.TypeOf(s[0]))
-	fmt.Println(isIsomorphic("title", "paper"))
+	fmt.Println(wordPattern("abba", "dog cat cat do"))
 }
 
 
