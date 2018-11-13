@@ -16,8 +16,8 @@
       <file leaf-file-name="1_test.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1_test.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="54" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
+            <state relative-caret-position="339">
+              <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
               <folding>
                 <element signature="e#18#46#0" expanded="true" />
               </folding>
@@ -25,83 +25,86 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="367.Valid_Perfect_Square.go" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/367.Valid_Perfect_Square.go">
+      <file leaf-file-name="414. Third Maximum Number.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/414. Third Maximum Number.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
+            <state relative-caret-position="390">
+              <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="412. Fizz Buzz.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/412. Fizz Buzz.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="339">
               <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ListNode.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ListNode.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TreeNode.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TreeNode.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="226.Invert_Binary_Tree.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/226.Invert_Binary_Tree.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="235.Lowest_Common_Ancestor_of_a_Binary_Search_Tree.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/235.Lowest_Common_Ancestor_of_a_Binary_Search_Tree.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="48" column="13" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="303.Range_Sum_Query_Immutable.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/303.Range_Sum_Query_Immutable.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="263.Ugly_Number.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/263.Ugly_Number.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="290.Word_Pattern.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/290.Word_Pattern.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="292.Nim_Game.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/292.Nim_Game.go">
+      <file leaf-file-name="371. Sum of Two Integers.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/371. Sum of Two Integers.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="415. Add Strings.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/415. Add Strings.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <element signature="e#18#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="538. Convert BST to Greater Tree.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/538. Convert BST to Greater Tree.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strings.go" pinned="false" current-in-tab="false">
+        <entry file="file:///usr/local/go/src/strings/strings.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4769">
+              <caret line="414" column="5" selection-start-line="414" selection-start-column="5" selection-end-line="414" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="387.First_Unique_Character_in_a_String.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/387.First_Unique_Character_in_a_String.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="404. Sum of Left Leaves.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/404. Sum of Left Leaves.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="409. Longest Palindrome.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/409. Longest Palindrome.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -145,8 +148,18 @@
         <option value="$PROJECT_DIR$/263.Ugly_Number.go" />
         <option value="$PROJECT_DIR$/290.Word_Pattern.go" />
         <option value="$PROJECT_DIR$/292.Nim_Game.go" />
-        <option value="$PROJECT_DIR$/1_test.go" />
         <option value="$PROJECT_DIR$/367.Valid_Perfect_Square.go" />
+        <option value="$PROJECT_DIR$/374.Guess_Number_Higher_or_Lower.go" />
+        <option value="$PROJECT_DIR$/383.Ransom_Note.go" />
+        <option value="$PROJECT_DIR$/387.First_Unique_Character_in_a_String.go" />
+        <option value="$PROJECT_DIR$/404. Sum of Left Leaves.go" />
+        <option value="$PROJECT_DIR$/409. Longest Palindrome.go" />
+        <option value="$PROJECT_DIR$/414. Third Maximum Number.go" />
+        <option value="$PROJECT_DIR$/412. Fizz Buzz.go" />
+        <option value="$PROJECT_DIR$/371. Sum of Two Integers.go" />
+        <option value="$PROJECT_DIR$/1_test.go" />
+        <option value="$PROJECT_DIR$/415. Add Strings.go" />
+        <option value="$PROJECT_DIR$/538. Convert BST to Greater Tree.go" />
       </list>
     </option>
   </component>
@@ -160,7 +173,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="187" />
+    <option name="x" value="124" />
     <option name="y" value="23" />
     <option name="width" value="1286" />
     <option name="height" value="817" />
@@ -239,39 +252,39 @@
     </recent_temporary>
   </component>
   <component name="TestHistory">
-    <history-entry file="TestPalindRomeLinkedList_in_leetcode - 2018.11.12 at 14h 29m 23s.xml">
-      <configuration name="TestPalindRomeLinkedList in leetcode" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="TestPalindRomeLinkedList_in_leetcode - 2018.11.12 at 14h 29m 43s.xml">
-      <configuration name="TestPalindRomeLinkedList in leetcode" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="TestPalindRomeLinkedList_in_leetcode - 2018.11.12 at 14h 29m 49s.xml">
-      <configuration name="TestPalindRomeLinkedList in leetcode" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="TestPalindRomeLinkedList_in_leetcode - 2018.11.12 at 14h 51m 40s.xml">
-      <configuration name="TestPalindRomeLinkedList in leetcode" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="TestPalindRomeLinkedList_in_leetcode - 2018.11.12 at 14h 51m 49s.xml">
-      <configuration name="TestPalindRomeLinkedList in leetcode" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="TestPalindRomeLinkedList_in_leetcode - 2018.11.12 at 14h 52m 33s.xml">
-      <configuration name="TestPalindRomeLinkedList in leetcode" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="TestPalindRomeLinkedList_in_leetcode - 2018.11.12 at 14h 54m 23s.xml">
-      <configuration name="TestPalindRomeLinkedList in leetcode" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="TestPalindRomeLinkedList_in_leetcode - 2018.11.12 at 14h 54m 39s.xml">
-      <configuration name="TestPalindRomeLinkedList in leetcode" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="TestPalindRomeLinkedList_in_leetcode - 2018.11.12 at 17h 48m 25s.xml">
-      <configuration name="TestPalindRomeLinkedList in leetcode" configurationId="GoTestRunConfiguration" />
-    </history-entry>
     <history-entry file="TestPalindRomeLinkedList_in_leetcode - 2018.11.12 at 17h 48m 33s.xml">
+      <configuration name="TestPalindRomeLinkedList in leetcode" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestPalindRomeLinkedList_in_leetcode - 2018.11.13 at 14h 14m 09s.xml">
+      <configuration name="TestPalindRomeLinkedList in leetcode" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestPalindRomeLinkedList_in_leetcode - 2018.11.13 at 14h 14m 26s.xml">
+      <configuration name="TestPalindRomeLinkedList in leetcode" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestPalindRomeLinkedList_in_leetcode - 2018.11.13 at 14h 14m 46s.xml">
+      <configuration name="TestPalindRomeLinkedList in leetcode" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestPalindRomeLinkedList_in_leetcode - 2018.11.13 at 14h 15m 00s.xml">
+      <configuration name="TestPalindRomeLinkedList in leetcode" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestPalindRomeLinkedList_in_leetcode - 2018.11.13 at 16h 02m 59s.xml">
+      <configuration name="TestPalindRomeLinkedList in leetcode" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestPalindRomeLinkedList_in_leetcode - 2018.11.13 at 16h 04m 13s.xml">
+      <configuration name="TestPalindRomeLinkedList in leetcode" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestPalindRomeLinkedList_in_leetcode - 2018.11.13 at 16h 04m 17s.xml">
+      <configuration name="TestPalindRomeLinkedList in leetcode" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestPalindRomeLinkedList_in_leetcode - 2018.11.13 at 16h 04m 33s.xml">
+      <configuration name="TestPalindRomeLinkedList in leetcode" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestPalindRomeLinkedList_in_leetcode - 2018.11.13 at 16h 19m 43s.xml">
       <configuration name="TestPalindRomeLinkedList in leetcode" configurationId="GoTestRunConfiguration" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="187" y="23" width="1286" height="817" extended-state="0" />
+    <frame x="124" y="23" width="1286" height="817" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2540193" />
@@ -456,13 +469,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/local/go/src/builtin/builtin.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/204.Count_Primes.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -554,20 +560,107 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/367.Valid_Perfect_Square.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/374.Guess_Number_Higher_or_Lower.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/383.Ransom_Note.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/387.First_Unique_Character_in_a_String.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/404. Sum of Left Leaves.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/409. Longest Palindrome.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/414. Third Maximum Number.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/412. Fizz Buzz.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/371. Sum of Two Integers.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/builtin/builtin.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-98">
+          <caret line="70" column="5" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/strings/strings.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4769">
+          <caret line="414" column="5" selection-start-line="414" selection-start-column="5" selection-end-line="414" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/1_test.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="54" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
+        <state relative-caret-position="339">
+          <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
           <folding>
             <element signature="e#18#46#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/367.Valid_Perfect_Square.go">
+    <entry file="file://$PROJECT_DIR$/415. Add Strings.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        <state relative-caret-position="378">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#18#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/538. Convert BST to Greater Tree.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>

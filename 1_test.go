@@ -21,6 +21,8 @@ func TestPalindRomeLinkedList(t *testing.T) {
 	s := "hjhj"
 	fmt.Println(reflect.TypeOf(s[0]))
 	fmt.Println(wordPattern("abba", "dog cat cat do"))
+	fmt.Println(-1 * (1 << 32))
+	fmt.Println(addStrings("1", "1"))
 }
 
 
