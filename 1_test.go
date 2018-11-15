@@ -25,6 +25,10 @@ func TestPalindRomeLinkedList(t *testing.T) {
 	fmt.Println(addStrings("1", "1"))
 	root := buildTree1([]int{9,3,15,20,7}, []int{9,15,7,20,3})
 	fmt.Println(root)
+	fmt.Println(generateMatrix(3))
+	fmt.Println(spiralOrder([][]int{{6, 9, 7}}))
+	fmt.Println(getPermutation(4, 9))
+	fmt.Println(uniquePaths(3, 2))
 }
 
 
