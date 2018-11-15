@@ -23,6 +23,8 @@ func TestPalindRomeLinkedList(t *testing.T) {
 	fmt.Println(wordPattern("abba", "dog cat cat do"))
 	fmt.Println(-1 * (1 << 32))
 	fmt.Println(addStrings("1", "1"))
+	root := buildTree1([]int{9,3,15,20,7}, []int{9,15,7,20,3})
+	fmt.Println(root)
 }
 
 
