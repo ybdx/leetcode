@@ -4,6 +4,7 @@ import (
 	"testing"
 	"fmt"
 	"reflect"
+	"strings"
 )
 
 func TestSort(t *testing.T) {
@@ -29,6 +30,9 @@ func TestPalindRomeLinkedList(t *testing.T) {
 	fmt.Println(spiralOrder([][]int{{6, 9, 7}}))
 	fmt.Println(getPermutation(4, 9))
 	fmt.Println(uniquePaths(3, 2))
+	fmt.Println(strings.Split("/a/./b/../../c/", "/")[0:2])
+	fmt.Println(minDistance("horse", "ros"))
+	fmt.Println(make([]int, 0, 10))
 }
 
 
