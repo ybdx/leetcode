@@ -33,6 +33,9 @@ func TestPalindRomeLinkedList(t *testing.T) {
 	fmt.Println(strings.Split("/a/./b/../../c/", "/")[0:2])
 	fmt.Println(minDistance("horse", "ros"))
 	fmt.Println(make([]int, 0, 10))
+	fmt.Println(removeDuplicates([]int{1,1,1,2,2,3}))
+	fmt.Println(search([]int{2, 5, 6, 0,0,1, 2}, 3))
+	fmt.Println(subsetsWithDup([]int{1,2,2}))
 }
 
 
