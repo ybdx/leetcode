@@ -18,6 +18,8 @@ func subsetsWithDup(nums []int) [][]int {
 	for i := 0; i < len(nums); i++ {
 		if i > 0 && sliceNums[i] == sliceNums[i-1] {
 			startIndex = size
+		} else {
+			startIndex = 0
 		}
 		size = len(result)
 		for j := startIndex; j < size; j++ {
