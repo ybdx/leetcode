@@ -34,11 +34,14 @@ func TestPalindRomeLinkedList(t *testing.T) {
 	//fmt.Println(removeDuplicates([]int{1,1,1,2,2,3}))
 	//fmt.Println(search([]int{2, 5, 6, 0,0,1, 2}, 3))
 	//fmt.Println(subsetsWithDup([]int{1,2,2}))
-	fmt.Println(isInterleave("", "b", "b"))
-	root := &TreeNode{Val:5, Left:&TreeNode{Val: 4}}
-	flatten(root)
-	fmt.Println(root)
-	fmt.Println(findMin2([]int{3,3,1,3}))
+	//fmt.Println(isInterleave("", "b", "b"))
+	//root := &TreeNode{Val:5, Left:&TreeNode{Val: 4}}
+	//flatten(root)
+	//fmt.Println(root)
+	//fmt.Println(findMin2([]int{3,3,1,3}))
+	fmt.Println(findRepeatedDnaSequences("AAAAAAAAAAA"))
+
+	fmt.Println(calculateMinimumHP([][]int{{-2,-3,3}, {-5,-10,1}, {10,30,-5}}))
 }
 
 

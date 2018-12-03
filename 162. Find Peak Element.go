@@ -22,3 +22,5 @@ func findPeakElement(nums []int) int {
 	}
 	return i
 }
+
+
